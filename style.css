@@ -1,0 +1,25 @@
+body {
+    transition: 1s;
+    background-color: #f7eee9;
+}
+
+.container {
+    height: 900px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img {
+    width: 50px;
+    border-radius: 10px;
+}
+
+.sol {
+    width: 45px;
+}
+
+button {
+    border-radius: 30px;
+    border: none;
+}
